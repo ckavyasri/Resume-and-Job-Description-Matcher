@@ -1,0 +1,3 @@
+Python, Machine Learning, Data Analysis, Pandas, NumPy, SQL.
+Built ML models for classification and prediction.
+Experience with data preprocessing and visualization.
